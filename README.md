@@ -4,11 +4,9 @@ _Yapay zeka alanında en önemli yazılım dillerinden bir olan Python için olu
 Tüm elektronik sistemler “0” ve “1” lerden 
 oluşan kod bloklarını çalıştırır ve buna  “makine dili” denir.
 
->![Makine Dili Örneği](/github.com/kubraaykol/Python.git/makinedili.png)
 
  Bir adım sonrası ise "Assembly dilleri" olmuştur.
 
- >![Assembly Örneği](/github.com/kubraaykol/Python.git/assembly.png)
 
 Ancak yine yeterli olmamaıştır ve bir sonraki adımda **daha anlaşılabilir** programlama dillerinin geliştirilmesi olmuştur.
 
