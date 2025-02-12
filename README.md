@@ -1,5 +1,5 @@
 # Python Eğitim İçeriği
-_Yapay zeka alanında en önemli yazılım dillerinden bir olan Python için oluşturduğum bu eğitim içeriğinin yeni başlayanlara faydalı olmasını temenni ediyorum._
+_Yapay zeka alanında en önemli yazılım dillerinden bir olan Python için oluşturduğum bu içerikle orta-zor seviye problem ve çözümlerle perspektif kazandırmasını temenni ediyorum._
 
 Tüm elektronik sistemler “0” ve “1” lerden 
 oluşan kod bloklarını çalıştırır ve buna  “makine dili” denir.
