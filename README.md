@@ -39,6 +39,27 @@ print("Hello World!")
 ```
 <br>
 
+**PYTHON İLE NELER YAPABİLİRİZ?**
+
+1. Makine öğrenmesi ve yapay zeka 
+2. Web uygulamaları
+3. Bilimsel hesaplamalar
+4. Veri analizi
+5. Oyun programlama
+6. Mobil Programlama
+
+**PYTHON KURULUMU**
+<br>
+
+[Python](https://www.python.org) buradaki linke tıklayarak öncelikle güncel sürmü bilgisayarınıza kurmalısınız.
+Uygun path işaretlemesini yapmayı unutmamalısınız.
+<br> 
+>![Path Seçimi](./path.png)
+<br>
+
+
+
+
 
 
 
