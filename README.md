@@ -4,9 +4,14 @@ _Yapay zeka alanında en önemli yazılım dillerinden bir olan Python için olu
 Tüm elektronik sistemler “0” ve “1” lerden 
 oluşan kod bloklarını çalıştırır ve buna  “makine dili” denir.
 
+>![Makine Dili Öğrenği](./makinedili.png)
+<br>
 
  Bir adım sonrası ise "Assembly dilleri" olmuştur.
+<br>
 
+>![Assembly Örneği](./assembly.png)
+<br>
 
 Ancak yine yeterli olmamaıştır ve bir sonraki adımda **daha anlaşılabilir** programlama dillerinin geliştirilmesi olmuştur.
 
@@ -33,5 +38,7 @@ Python dinamik, yüksek seviyeli, _nesne yönelimli_ bir programlama dilidir. Bu
 print("Hello World!")
 ```
 <br>
+
+
 
 
