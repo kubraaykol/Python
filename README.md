@@ -58,6 +58,14 @@ Uygun path işaretlemesini yapmayı unutmamalısınız.
 <br>
 
 
+>![Setup](./setup.png)
+
+
+
+>![Version](./version.png)
+
+
+
 
 
 
