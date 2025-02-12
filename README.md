@@ -57,12 +57,19 @@ Uygun path işaretlemesini yapmayı unutmamalısınız.
 >![Path Seçimi](./path.png)
 <br>
 
+Path (dosya yolu), yani bir dosyanın bir web sitesinin klasör yapısındaki konumunu açıklar. Bu seçim tamalandıktan sonra aşağıdaki görselde yer alan yükleme işlemine devam edilir. 
 
 >![Setup](./setup.png)
 
-
+Yükleme işlemi tamamlandıktan sonra komut satırı ile herhangi bir hata olup olmadı kontrol edilir ve güncel versiyon bilgisinin çıktığı elde idildiğinde yükleme işleminin başarılı bir biçimde tamamlandığını anlarız.
 
 >![Version](./version.png)
+
+Daha düzenli ve kolay kod yazmaya devam edebilmek için IDE'ye ihtiyacınız olacaktır.
+Burada PyCharm, Atom, Jupyter, Spyder seçenek olabilir. Visual Studio Code'u ücretsiz olarak kullanabilirsiniz.
+
+
+
 
 
 
